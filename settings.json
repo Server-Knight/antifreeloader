@@ -1,0 +1,7 @@
+{
+    "name": "AntiFreeloader",
+    "author": ["Adam Turaj", "PhenoM4n4"],
+    "short": "Bans Freeloaders",
+    "description": "Bans freeloaders. These are people who join servers which are doing a Dank Memer heist just to get free money then leave.",
+    "install_msg": "This cog no longer works and is unsupported as there were updates to Dank Memer heists."
+}
